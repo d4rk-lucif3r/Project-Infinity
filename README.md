@@ -18,7 +18,9 @@
 - The code can be found [here](https://github.com/arshanwar/Project-Infinity/blob/master/Code/Infinity.ino).
 ## Library Required
 - [This](https://github.com/arshanwar/Project-Infinity/tree/master/Motor%20Shield%20LIbrary) is the library for the Adafruit Motor Shield V2 for Arduino. It supports DC motors & Stepper motors with microstepping as well as stacking-support.
-
+## Working Principle
+-- Brain waves are oscillating electrical voltages in the brain measuring just a few millionths of a volt. There are five widely recognized brain waves, and the main frequencies of human EEG waves are listed below along with their characteristics.
+![EEG WAVES](https://github.com/arshanwar/Project-Infinity/blob/master/EEG%20waves.jpg)
 ## Working
 - Meditation produces alpha waves (frequency range: 7.5-12.5 Hz).
 - Attention produces beta waves (frequency range: 12.5-30 Hz).
