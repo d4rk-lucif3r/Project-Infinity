@@ -7,7 +7,7 @@
 //GND of HC-05 Goes to GND from Arduino
 
 
-char j;
+
 String iS="";
 #include<AFMotor.h>     //Motorshield library must be include manually
 AF_DCMotor motor1(1);   //L293d Motorshield port M1
@@ -30,10 +30,7 @@ void loop()
       iS += iC;       
     }
     Serial.println(i);
-    while (Serial.available() > 0)  
-    { 
-      j = Serial.read() ; 
-    }      
+      
     
     if(iS == '4')   //To move forward      
     { 
