@@ -1,6 +1,6 @@
 # Project-Infinity
 ![Google Phone](https://img.shields.io/badge/Android-Lollipop+-blue.svg?logo=google&longCache=true&style=flat-square)
-- Project Infinity is a mind controlled rover which is controlled by Neurosky Mindwave Headset with the help of an [app](https://github.com/ksdhanjal/Project-Infinity) which is made using arduino
+- Project Infinity is a mind controlled rover which is made using arduino and is controlled by  Neurosky Mindwave Headset with the help of an [app](https://github.com/ksdhanjal/Project-Infinity) which is made using arduino
 
 
 
