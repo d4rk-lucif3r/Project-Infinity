@@ -34,5 +34,4 @@
 ## Headset Diagram
 ![Headset-diagram](https://github.com/arshanwar/Project-Infinity/blob/master/Headset%20Diagram.jpg)
 ## Contributors
-- [@ksdhanjal](https://github.com/ksdhanjal) for the [app](https://github.com/ksdhanjal/Project-Infinity).
 - [@adafruit](https://github.com/adafruit) for Motor Shield Library.
