@@ -33,5 +33,7 @@
 ![Schematics Image](https://github.com/arshanwar/Project-Infinity/blob/master/Schematics.png)
 ## Headset Diagram
 ![Headset-diagram](https://github.com/arshanwar/Project-Infinity/blob/master/Headset%20Diagram.jpg)
+## Image
+![](https://github.com/d4rk-lucif3r/Project-Infinity/blob/master/IMG_20191007_142642.jpg)
 ## Contributors
 - [@adafruit](https://github.com/adafruit) for Motor Shield Library.
